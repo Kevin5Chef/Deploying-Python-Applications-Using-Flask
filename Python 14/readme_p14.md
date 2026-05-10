@@ -1,7 +1,7 @@
 # Flask Full-Stack ML Applications — CSS Styling, In-Browser Charting, Regression Models, and Feature Contribution Visualisation
 ### A Technical Reference on Advanced Flask Frontends, Matplotlib Server-Side Rendering, Regression with TensorFlow, Scikit-learn Deployment, and Interactive ML Dashboards
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Flask, TensorFlow, Scikit-learn, Matplotlib, Regression, Data Visualisation, Full-Stack ML Deployment
 **Status:** Demonstrative & Applied
 
