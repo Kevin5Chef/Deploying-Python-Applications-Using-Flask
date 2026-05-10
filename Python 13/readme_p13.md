@@ -1,7 +1,7 @@
 # Flask Web Framework — REST API Design, ML Model Deployment, Pickle Serialisation, and Browser-Based AI Interfaces
 ### A Technical Reference on Flask Routing, HTTP Methods, JSON Communication, Model Serving, Frontend Integration, and End-to-End ML Deployment Pipelines
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Flask, REST APIs, TensorFlow, Model Deployment, Web Development, Applied AI Systems
 **Status:** Demonstrative & Applied
 
