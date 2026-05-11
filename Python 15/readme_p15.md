@@ -1,7 +1,7 @@
 # Flask ML Operations — Logging, API Testing, Model Updates, Input Validation, and Linear Regression Deployment
 ### A Technical Reference on Python Logging, Deliberate Error Injection, Postman API Testing, Multi-Model Switching, Input Validation Architecture, and End-to-End Linear Regression Serving
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Flask, MLOps, Scikit-learn, TensorFlow, Logging, API Testing, Input Validation, Regression Deployment
 **Status:** Demonstrative & Applied
 
